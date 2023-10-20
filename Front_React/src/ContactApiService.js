@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const __BASE_URL = 'AnthoApiBirthday/api';
+const __BASE_URL = 'AnthoApiBirthday:7777/api';
 
 const __HEADERS = {
     'Accept': 'application/json',
