@@ -1,3 +1,4 @@
+import cors from 'cors';
 import ip from 'ip';
 import express from 'express';
 import morgan from 'morgan';
